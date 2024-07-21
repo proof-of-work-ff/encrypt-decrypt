@@ -1,0 +1,44 @@
+Rubric - PA08
+
+Program Operations: /10
+=======================
+Program builds correctly, no errors or warnings: /6
+Program runs correctly: /4
+
+FUNCTION IMPLEMENTATION  /40
+=======================
+4 points for each function:
+- SSPP - 2 points
+- Code - 2 points
+
+Correct implementation of decryptCharacter:  /4
+
+Correct implementation of decrypteData:  /4
+
+Correct implementation of downloadEncryptedFile:  /4
+
+Correct implementation of encryptCharacter:  /4
+
+Correct implementation of encryptData:  /4
+
+Correct implementation of getLookupIndex:  /4
+
+{no grading for getRandBetween}
+
+Correct implementation of getUserChoice:  /4
+
+Correct implementation of isInString:  /4
+
+Correct implementation of uploadEncryptedData:  /4
+
+Correct implementation of getUserChoice:  /4
+
+All other specifications followed:  /5
+=====================================
+- correct file upload
+- correct method names, variable names, etc.
+- appropriate use of constant values
+
+General Usage Rubric reductions
+===============================
+- see GUR document

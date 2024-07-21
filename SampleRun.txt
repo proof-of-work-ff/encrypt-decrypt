@@ -1,0 +1,43 @@
+EXAMPLE 1: Encryption
+
+DATA ENCRYPTION PROGRAM
+=======================
+
+Operation: <D>ecrypt or <E>ncrypt? e
+Enter string to be encrypted: This is a really cool encrypted string!
+
+Do you want to download this encrypted string (Y/N)? y
+Enter file name: outfile.txt
+
+Downloading encrypted string to file . . .Download complete.
+
+Program End
+
+===========================================================================
+EXAMPLE 2: Decryption
+
+DATA ENCRYPTION PROGRAM
+=======================
+
+Operation: <D>ecrypt or <E>ncrypt? d
+Enter encrypted file name: outfile.txt
+
+Uploading encrypted string from file . . .Upload complete.
+The decrypted string is: This is a really cool encrypted string!
+
+Program End
+
+===========================================================================
+EXAMPLE 3: Failed File Access
+
+DATA ENCRYPTION PROGRAM
+=======================
+
+Operation: <D>ecrypt or <E>ncrypt? d
+Enter encrypted file name: wrongfile.txt
+
+Uploading encrypted string from file . . .Upload complete.
+
+ERROR: Program encryption/decryption failed, program aborted
+
+Program End
